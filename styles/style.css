@@ -39,6 +39,7 @@
 
 .nav__link {
   color: #000000;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -118,6 +119,7 @@
   margin-top: 68px;
   max-width: 760px;
   row-gap: 40px;
+  justify-content: center;
   column-gap: 40px;
   padding: 0;
   flex-wrap: wrap;
