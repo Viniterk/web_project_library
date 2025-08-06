@@ -338,32 +338,50 @@
 }
 
 .footer {
+  padding: 60px 80px;
+  color: white;
+  background-color: #1f1f1f;
   box-sizing: border-box;
 }
 
 .footer__columns {
+  display: flex;
 }
 
 .footer__column_content_hours {
+  padding-right: 80px;
+  
 }
 
 .footer__column_content_social {
+  
 }
 
 .footer__logo {
+  margin-right: auto;
+
 }
 
+
 .footer__column-heading {
+  padding-bottom: 20px;
+  margin: 0;
 }
 
 .footer__list {
   /* O código abaixo remove os estilos do navegador padrão para listas */
+  display: flex;
+  gap: 16px;
+  flex-direction: column;
   list-style-type: none;
   padding: 0;
   margin: 0;
 }
 
 .footer__list-item {
+  display: flex;
+  gap: 10px;
+
 }
 
 .footer__column-link {
@@ -372,6 +390,8 @@
 }
 
 .footer__social-icon {
+  height: 16px;
+  width: 16px;
 }
 
 .footer__copyright {
