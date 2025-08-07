@@ -8,7 +8,6 @@
 
 <img src="biblioteca.png" alt="Aba de inicio da biblioteca">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 > O projeto é a criação de uma pagina da biblioteca TripleTen, com a seção de equipes, membros, eventos e contatos
 
 
