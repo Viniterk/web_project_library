@@ -359,6 +359,8 @@
 
 .footer__logo {
   margin-right: auto;
+  width: 58px;
+  height: 80px;
 
 }
 
@@ -369,7 +371,6 @@
 }
 
 .footer__list {
-  /* O código abaixo remove os estilos do navegador padrão para listas */
   display: flex;
   gap: 16px;
   flex-direction: column;
